@@ -4,6 +4,7 @@
 To design and implement a LangChain Expression Language (LCEL) expression that utilizes at least two prompt parameters and three key components (prompt, model, and output parser), and to evaluate its functionality by analyzing relevant examples of its application in real-world scenarios.
 
 ### PROBLEM STATEMENT:
+Design and integrate a Python function that calculates the volume of a cylinder, and enable the function to be called through a chat completion system, simulating an LLM interface.
 
 ### DESIGN STEPS:
 ### STEP 1: Setup API and Environment: Load environment variables using dotenv and set openai.api_key from the local environment.
